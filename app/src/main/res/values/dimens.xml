@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dim_120">120dp</dimen>
+    <dimen name="dim_105">105dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="dim_115">115dp</dimen>
+    <dimen name="dim_100">100dp</dimen>
+    <dimen name="dim_350">350dp</dimen>
+    <dimen name="dim_300">300dp</dimen>
+    <dimen name="dim_145">145dp</dimen>
+    <dimen name="dim_160">160dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="dim_125">125dp</dimen>
+    <dimen name="dim_128">128dp</dimen>
+</resources>
